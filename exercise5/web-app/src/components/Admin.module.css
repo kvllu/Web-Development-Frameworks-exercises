@@ -1,0 +1,52 @@
+.HeaderDiv{
+    background-color: #131921;
+    padding: 0.5vh;
+    margin: -10px;
+    display: flex;
+    color: white;
+}
+.Title{
+    color: white;
+    font-size: 30px;
+    margin-left: 5px;
+}
+.Buttons{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.FieldsDiv{
+    margin-left: 8%;
+    margin-top: 30px;
+}
+.Field{
+    margin-right: 10px;
+    width: 20vh;
+}
+.RatingDiv{
+    margin-top: 15px;
+}
+.List{
+    display: flex;
+    margin-bottom: 10px;
+    background-color: #29538a;
+    border-radius: 25px;
+    color: rgb(219, 219, 219);
+    padding: 13px;
+    max-width: 95%;
+}
+.ListDiv{
+    margin-top: 25px;
+    margin-left: 7vh;
+}
+
+.Button {
+    background-color: hsl(212, 100%, 41%); 
+    margin-right: 10px;
+    width: 200px;
+    padding: 15px;
+    border-radius: 12px;
+    border: none;
+    color: white;
+    text-align: center;
+    box-shadow: 5px 5px 10px 1px #1f1f1f91;
+  }

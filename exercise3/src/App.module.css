@@ -1,0 +1,36 @@
+.HeaderDiv{
+    background-color: #131921;
+    padding: 0.5vh;
+    margin: -10px;
+    display: flex;
+}
+.Title{
+    color: white;
+    font-size: 30px;
+    margin-left: 5px;
+}
+.SearchDiv{
+    margin-left: 10%;
+    margin-top: 20px;
+    display: flex;
+}
+.RangeDiv{
+    margin-left: 15%;
+    margin-top: 20px;
+    display: block;
+}
+.Search{
+    max-height: 30px;
+}
+.SearchText{
+    color: white;
+    font-size: 20px;
+    margin-top: 6px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.Range{
+    margin-top: 25px;
+    margin-right: 30%;
+}

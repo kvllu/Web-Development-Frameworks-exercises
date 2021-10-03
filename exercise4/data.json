@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Roku Streaming Stick+ | HD/4K/HDR Streaming Device with Long-range Wireless and Roku Voice Remote with TV Controls",
+      "image": "product1.jpg",
+      "manufacturer": "Roku",
+      "price": 39.99,
+      "rating": 3.5
+    },
+    {
+      "id": 2,
+      "title": "Roku Express 4K+ 2021 | Streaming Media Player HD/4K/HDR with Smooth Wireless Streaming and Roku Voice Remote with TV Controls, Includes Premium HDMI Cable",
+      "image": "product2.jpg",
+      "manufacturer": "Roku",
+      "price": 28.97,
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "title": "iPhone Charger [Apple MFi Certified] QIRUOZ 5Pack(3/3/6/6/10FT) Compatible iPhone 12Pro Max/12Pro/12/11/Pro/Xs Max/X/8 and More-Silver&White",
+      "image": "product3.jpg",
+      "manufacturer": "QIRUOZ",
+      "price": 12.99,
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "title": "Seagate Portable 2TB External Hard Drive Portable HDD – USB 3.0 for PC, Mac, PS4, & Xbox - 1-Year Rescue Service (STGX2000400)",
+      "image": "product4.jpg",
+      "manufacturer": "Seagate",
+      "price": 59.99,
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "title": "Logitech H390 Wired Headset, Stereo Headphones with Noise-Cancelling Microphone, USB, In-Line Controls, PC/Mac/Laptop - Black",
+      "image": "product5.jpg",
+      "manufacturer": "Logitech",
+      "price": 20.00,
+      "rating": 3
+    },
+    {
+      "id": 6,
+      "title": "WD 2TB Elements Portable External Hard Drive HDD, USB 3.0, Compatible with PC, Mac, PS4 & Xbox",
+      "image": "product6.jpg",
+      "manufacturer": "Western Digital",
+      "price": 59.99,
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "title": "SanDisk 128GB Extreme microSDXC UHS-I Memory Card with Adapter - Up to 160MB/s, C10, U3, V30, 4K, A2, Micro SD - SDSQXA1-128G-GN6MA",
+      "image": "product7.jpg",
+      "manufacturer": "SanDisk",
+      "price": 21.99,
+      "rating": 5
+    },
+    {
+      "id": 8,
+      "title": "HP 24mh FHD Monitor - Computer Monitor with 23.8-Inch IPS Display (1080p) - Built-In Speakers and VESA Mounting - Height/Tilt Adjustment for Ergonomic Viewing - HDMI and DisplayPort",
+      "image": "product8.jpg",
+      "manufacturer": "HP",
+      "price": 236.00,
+      "rating": 1
+    },
+    {
+      "id": 9,
+      "title": "Logitech BRIO Ultra HD Webcam for Video Conferencing, Recording, and Streaming - Black",
+      "image": "product9.jpg",
+      "manufacturer": "Logitech",
+      "price": 164.80,
+      "rating": 5
+    },
+    {
+      "id": 10,
+      "title": "SAMSUNG 980 PRO 2TB PCIe NVMe Gen4 Internal Gaming SSD M.2 (MZ-V8P2T0B/AM)",
+      "image": "product10.jpg",
+      "manufacturer": "SAMSUNG",
+      "price": 359.68,
+      "rating": 4
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Juuso Mattila",
+      "address": "Juustokatu 20",
+      "age": 30,
+      "balance": 500.00
+    },
+    {
+      "id": 2,
+      "name": "Matti Jaakkola",
+      "address": "Matintie 10 A 6",
+      "age": 22,
+      "balance": 60.23
+    }
+  ],
+  "invoices": [
+    {
+      "id": 1,
+      "user_id" : 2,
+      "items": [
+        {
+          "item_id" : 1,
+          "item_name" : "SAMSUNG 980 PRO 2TB PCIe NVMe Gen4 Internal Gaming SSD M.2 (MZ-V8P2T0B/AM)",
+          "item_price" : 359.68
+        } 
+      ],
+      "total_price": 359.68
+    }
+  ]
+}

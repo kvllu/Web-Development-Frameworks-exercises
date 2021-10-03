@@ -1,0 +1,26 @@
+.HeaderItems{
+    float: right;
+    padding-right: 10%;
+    padding-top: 11px;
+    display: flex;
+}
+.HeaderItem{
+    padding-right: 3%;
+    font-size: 20px;
+}
+.NotifiDiv{
+    display: flex;
+    min-height: 13vh;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: #e9eaed;
+  }
+  .Header {
+    background-color: #00194c;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding-left: 21%;
+    padding-right: 21%;
+  }

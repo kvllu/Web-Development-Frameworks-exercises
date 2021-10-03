@@ -1,0 +1,12 @@
+.shoppingList
+{
+  border: 1px black solid;
+  width: 400px;
+  padding-left: 20px;
+}
+.buttonDiv{
+  display: flex;
+  margin-left: 10%;
+  padding: 5px;
+  background-color: pink;
+}

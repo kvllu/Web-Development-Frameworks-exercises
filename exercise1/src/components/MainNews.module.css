@@ -1,0 +1,19 @@
+.MainNewsDiv{
+    background-color: #e9eaed;
+    padding-left: 21%;
+    height: 250vh;
+}
+.NewsDiv{
+    width: 50%;
+    min-height: 100%;
+    float: left;
+}
+
+.MostReadDiv{
+    background-color: white;
+    margin-left: 2.5%;
+    width: 19%;
+    min-height: 135vh;
+    padding-left: 2%;
+    float: left;
+}

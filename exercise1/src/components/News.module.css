@@ -1,0 +1,19 @@
+.News{
+    align-items: center;
+    background-color: white;
+    padding: 2%;
+    margin-bottom: 2%;
+}
+.Title{
+    font-size: 27px;
+    color: rgba(22, 40, 201, 0.63);
+    font-weight: bold;
+}
+img{
+    max-width: 100%;
+}
+.Text{
+    font-size: 26px;
+    color: black;
+    font-weight: bold;
+}

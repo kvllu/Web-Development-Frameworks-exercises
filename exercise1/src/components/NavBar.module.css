@@ -1,0 +1,14 @@
+.NavDiv{
+    display: flex;
+    margin-left: 21%;
+    margin-bottom: -0.8%;
+
+}
+.NavItem{
+    margin-left: 2%;
+}
+.SelectedItem{
+    font-weight: bold;
+    border-bottom: 4px solid #00194c;
+    padding-bottom: 10px;
+}
